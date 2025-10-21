@@ -1,3 +1,3 @@
 # future work
 Wonderful Short Video Fake News Detection
-CogFakeDetector: A Bio-Inspired Multi-modal Cognitive Framework for Spatio-Temporal Deception Reasoning in Short Videos
+BioFakeDetector: Bio-Inspired Spatio-Temporal Reasoning for Multi-Modal Fake News Detection in Short Videos
